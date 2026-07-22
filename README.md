@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋 I'm Vladislav
 
-<!--
-**ByteTishnik/ByteTishnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on **C#**, **ASP.NET Core**, and **REST APIs**.
 
-Here are some ideas to get you started:
+I'm currently building portfolio projects, improving my backend development skills, and learning Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 I’m currently working on
+
+* 🌌 Gravity Simulation (Raylib)
+* 💻 Backend portfolio projects
+
+## 🌱 I’m currently learning
+
+* ASP.NET Core
+* Entity Framework Core
+* Software Architecture
+* Go
+* SQL
+
+## 🛠 Tech Stack
+
+* C#
+* ASP.NET Core
+* Entity Framework Core
+* SQLite
+* Go
+* Git & GitHub
+* JWT Authentication
+* Raylib-cs
+
+## 🚀 Featured Projects
+
+* 🎮 **Flappy Rocket Online** — desktop game with an authenticated backend and online leaderboard.
+* ✅ **Todo API** — REST API with JWT authentication.
+* 🃏 **Go Card Game** — learning Go by building a console card game.
+
+## 🎯 Goals
+
+* Become a Junior C# Backend Developer.
+* Build production-quality backend applications.
+* Learn distributed systems and Go.
+* Keep improving every day.
+
+## 📫 How to reach me
+
+* GitHub: https://github.com/ByteTishnik
+* Email: mr.vladislavbur08@gmail.com
