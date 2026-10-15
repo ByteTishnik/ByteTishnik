@@ -1,49 +1,67 @@
 # Hi there 👋 I'm Vladislav
 
-Backend developer focused on **C#**, **ASP.NET Core**, and **REST APIs**.
+**C#/.NET Developer in Progress | Backend Engineering | Systems & Robotics**
 
-I'm currently building portfolio projects, improving my backend development skills, and learning Go.
+I'm focused on building a strong foundation in software engineering, with an emphasis on **C#, .NET, backend development, and system design**.
 
----
+I believe in understanding how things work under the hood, writing maintainable code, and becoming an independent problem solver rather than just making things work.
 
-## 🔭 I’m currently working on
+## 🔭 Currently Working On
 
-* 🌌 Gravity Simulation (Raylib)
-* 💻 Backend portfolio projects
+- 🛠️ Building practical C#/.NET portfolio projects
+- 🧠 Strengthening problem-solving and independent coding skills
 
-## 🌱 I’m currently learning
+## 🌱 Currently Learning
 
-* ASP.NET Core
-* Entity Framework Core
-* Software Architecture
-* Go
-* SQL
+- C# and modern .NET
+- ASP.NET Core and REST API design
+- SQL, relational databases, and Entity Framework Core
+- Software architecture and clean code
+- Data structures and algorithms
+- Testing, debugging, and Git workflows
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-* C#
-* ASP.NET Core
-* Entity Framework Core
-* SQLite
-* Go
-* Git & GitHub
-* JWT Authentication
-* Raylib-cs
+**Languages**
+
+- C#
+- C++
+
+**Backend & Databases**
+
+- .NET / ASP.NET Core
+- Entity Framework Core
+- REST APIs
+- SQLite
+- SQL / PostgreSQL
+- JWT Authentication
+
+**Tools & Libraries**
+
+- Git & GitHub
+- Raylib-cs
+- Zed
 
 ## 🚀 Featured Projects
 
-* 🎮 **Flappy Rocket Online** — desktop game with an authenticated backend and online leaderboard.
-* ✅ **Todo API** — REST API with JWT authentication.
-* 🃏 **Go Card Game** — learning Go by building a console card game.
+- 🎮 **Flappy Rocket Online** — A desktop game built with Raylib-cs, featuring an authenticated backend and an online leaderboard.
+- 🔐 **Todo API** — A REST API project exploring authentication, data persistence, and backend architecture.
+
+
 
 ## 🎯 Goals
 
-* Become a Junior C# Backend Developer.
-* Build production-quality backend applications.
-* Learn distributed systems and Go.
-* Keep improving every day.
+- Become a capable Middle C#/.NET Backend Developer.
+- Build reliable, maintainable, and well-tested applications.
+- Develop strong problem-solving and independent coding skills.
+- Understand software architecture beyond the framework level.
+- Explore systems programming, embedded development, and robotics.
 
-## 📫 How to reach me
+## 📫 Contact
 
-* GitHub: https://github.com/ByteTishnik
-* Email: mr.vladislavbur08@gmail.com
+- GitHub: [@ByteTishnik](https://github.com/ByteTishnik)
+- Email: [mr.vladislavbur08@gmail.com](mailto\:mr.vladislavbur08@gmail.com)
+
+---
+
+*Learning by building. Improving through practice. Understanding the fundamentals.*
